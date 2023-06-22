@@ -2,7 +2,7 @@
     "name": "Cricket",
     "version": "1.0.0",
     "description": "My First Bot Made With Discord.js!",
-    "main": "index.js",
+    "main": "Index.js",
     "dependencies": {
         "discord.js": "^11.3.0"
     },
